@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hint">#FFC8C8C8</color>
+    <color name="colorPrimary">#FF6750A4</color>
+    <color name="colorPrimaryFade">#666750A4</color>
+    <color name="splash_background">#FF000000</color>
+</resources>

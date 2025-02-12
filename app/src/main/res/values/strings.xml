@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HostelProject</string>
+    <string name="hello_blank_fragment">HELLO FRAGMENT</string>
+
+    <string-array name="complaint_types">
+        <item>---Select Complaint Type---</item>
+        <item>Room Issue</item>
+        <item>Food Issue</item>
+        <item>Security Issue</item>
+        <item>Technical Issue</item>
+        <item>Billing Error</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="service_types">
+        <item>---Select Service Type---</item>
+        <item>Laundry</item>
+        <item>Room Cleaning</item>
+        <item>Handyman</item>
+        <item>Electrician</item>
+        <item>Repair Work</item>
+        <item>Others</item>
+    </string-array>
+</resources>
